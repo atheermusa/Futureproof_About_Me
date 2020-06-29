@@ -1,0 +1,97 @@
+body {
+  background-color: #060606;
+  color: #fff;
+  font-family: Roboto;
+  margin: 0px 10px 0px 10px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+img {
+  width: 300px;
+  border-radius: 20px;
+}
+
+.img-container {
+  text-align: center;
+  margin: -10px -10px -10px -10px;
+  padding: 20px 20px 20px 20px;
+}
+
+#about-me {
+  padding: 0px 10px 10px 20px;
+  margin: 0px -10px 5px -10px;
+}
+
+#coder-text {
+  font-family: monospace;
+  font-size: 30px;
+  color: #39ff14;
+}
+
+#two-truths-one-lie {
+  padding: 0px 10px 0px 20px;
+  margin: 0px -10px 5px -10px;
+}
+
+.green-text {
+  color: #77b300;
+}
+
+.red-text {
+  color: #cc0000;
+}
+
+.cell-container {
+  width: 33.33%;
+  float: left;
+  margin: 0px 0px 20px 0px;
+}
+
+.option-container {
+  margin: 5px 5% 5px 5%;
+  background-color: #3498db;
+  border-color: #2a9fd600;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 10px;
+  text-align: center;
+  padding: 5px;
+}
+
+#wrapper {
+  width: 100%;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  color: #fff;
+  background-color: #2a9fd6;
+  border-color: #375a7f;
+  height: 30px;
+  width: 70px;
+  border-radius: 3px;
+}
+
+footer {
+  font-size: 0.5rem;
+  text-align: center;
+  background-color: ;
+  color: #adafae;
+  padding: 40px 0px 60px 0px;
+  font-family: helvetica;
+}
+
+p {
+  color: #adafae;
+}
